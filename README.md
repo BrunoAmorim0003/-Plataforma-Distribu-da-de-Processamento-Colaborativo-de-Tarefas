@@ -1,4 +1,4 @@
-# Plataforma Distribuída de Processamento Colaborativo de Tarefas
+ # Plataforma Distribuída de Processamento Colaborativo de Tarefas
 
 ## 📋 Sobre o Projeto
 
@@ -115,27 +115,26 @@ javac -cp "lib/*" -d bin src/common/models/*.java src/common/util/*.java src/com
 Importante: Abra terminais separados para cada componente!
 
 Terminal 1 - Orquestrador Principal
-
 ```bash
 java -cp "bin;lib/*" orchestrator.PrimaryOrchestrator
-Terminal 2 - Orquestrador Backup
 ```
+Terminal 2 - Orquestrador Backup
 ```bash
 java -cp "bin;lib/*" orchestrator.SecondaryOrchestrator
-Terminal 3 - Worker 1
 ```
+Terminal 3 - Worker 1
 ```bash
 java -cp "bin;lib/*" worker.WorkerNode worker1 localhost 8080 9001
-Terminal 4 - Worker 2
 ```
+Terminal 4 - Worker 2
 ```bash
 java -cp "bin;lib/*" worker.WorkerNode worker2 localhost 8080 9002
-Terminal 5 - Worker 3
 ```
+Terminal 5 - Worker 3
 ```bash
 java -cp "bin;lib/*" worker.WorkerNode worker3 localhost 8080 9003
-Terminal 6 - Cliente
 ```
+Terminal 6 - Cliente
 ```bash
 java -cp "bin;lib/*" client.ClientApp localhost 8081
 ```
