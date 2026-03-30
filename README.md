@@ -227,7 +227,11 @@ Aguarde 10 segundos
 
 O Backup assume automaticamente
 
-Faça Logout do usuário e logue novamente
+Faça Logout do usuário e logue novamente após inserir:
+```bash
+java -cp "bin;lib/*" client.ClientApp localhost 8081
+```
+no terminal.
 
 O cliente pode consultar tarefas normalmente
 
