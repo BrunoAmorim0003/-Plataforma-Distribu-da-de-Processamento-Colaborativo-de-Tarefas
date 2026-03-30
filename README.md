@@ -227,15 +227,22 @@ Aguarde 10 segundos
 
 O Backup assume automaticamente
 
+Faça Logout do usuário e logue novamente
+
 O cliente pode consultar tarefas normalmente
 
 Logs esperados:
 
 text
 ```bash
-[WARN] [SecondaryOrchestrator] Primário falhou! Iniciando failover...
-[INFO] [SecondaryOrchestrator] ===== ASSUMINDO COMO ORQUESTRADOR PRINCIPAL =====
-[INFO] [SecondaryOrchestrator] Servidor de clientes iniciado na porta 8081
+[2026-03-30 18:15:35.982] [INFO] [SecondaryOrchestrator] ===== ASSUMINDO COMO ORQUESTRADOR PRINCIPAL =====
+[2026-03-30 18:15:35.984] [INFO] [SecondaryOrchestrator] Tasks no backup: X
+[2026-03-30 18:15:35.985] [INFO] [SecondaryOrchestrator] Credenciais no backup: X
+[2026-03-30 18:15:35.985] [INFO] [SecondaryOrchestrator] Failover concluído. Pronto para atender clientes na porta 8081
+[2026-03-30 18:15:35.987] [INFO] [SecondaryOrchestrator] Servidor de clientes iniciado na porta 8081
+[2026-03-30 18:17:32.639] [INFO] [SecondaryOrchestrator] Usuário autenticado: aluno1
+[2026-03-30 18:17:56.622] [INFO] [SecondaryOrchestrator] Status enviado: 8df624f5-67d3-40e6-b5c9-c0419d383476
+[2026-03-30 18:18:26.542] [INFO] [SecondaryOrchestrator] Status enviado: c9e106d0-1bbc-4dcf-a8b2-0e96ce7f4526
 ```
 
 # Balanceamento de Carga
@@ -277,10 +284,10 @@ Evento	                    Descrição
 TASK_SUBMITTED	            Cliente submeteu nova tarefa
 TASK_DISTRIBUTED	          Tarefa atribuída a um worker
 TASK_COMPLETED	            Tarefa concluída com sucesso
-TASK_FAILED	                Tarefa falhou na execução
-TASK_REASSIGNED	            Tarefa reatribuída após falha
+TASK_FAILED	               Tarefa falhou na execução
+TASK_REASSIGNED	           Tarefa reatribuída após falha
 WORKER_FAILURE	            Worker falhou (heartbeat timeout)
-WORKER_REGISTERED	          Novo worker registrado
+WORKER_REGISTERED	         Novo worker registrado
 AUTH_SUCCESS	              Login bem-sucedido
 AUTH_FAILURE	              Tentativa de login inválida
 FAILOVER	                  Backup assumiu como primário
