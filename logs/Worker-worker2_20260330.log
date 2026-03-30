@@ -1,0 +1,9 @@
+[2026-03-30 17:50:03.144] [INFO] [Worker-worker2] Iniciando Worker Node...
+[2026-03-30 17:50:03.335] [INFO] [Worker-worker2] Registrado no orquestrador: REGISTERED
+[2026-03-30 17:50:03.339] [INFO] [Worker-worker2] Worker rodando na porta 9002
+[2026-03-30 17:50:54.317] [INFO] [Worker-worker2] Executando tarefa: ad8e5c53-af68-4a57-b895-b789d8f2a09a - tarefa3
+[2026-03-30 17:50:54.325] [INFO] [Worker-worker2] Tarefa ad8e5c53-af68-4a57-b895-b789d8f2a09a concluída
+[2026-03-30 17:55:37.256] [WARN] [Worker-worker2] Falha ao enviar heartbeat: Connection refused: connect
+[2026-03-30 17:55:40.266] [WARN] [Worker-worker2] Falha ao enviar heartbeat: Connection refused: connect
+[2026-03-30 17:55:43.278] [WARN] [Worker-worker2] Falha ao enviar heartbeat: Connection refused: connect
+[2026-03-30 17:55:46.287] [WARN] [Worker-worker2] Falha ao enviar heartbeat: Connection refused: connect

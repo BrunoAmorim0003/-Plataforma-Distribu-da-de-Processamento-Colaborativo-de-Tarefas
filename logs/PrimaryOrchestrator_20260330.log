@@ -1,0 +1,460 @@
+[2026-03-30 17:10:54.343] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:10:55.721] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:57665
+[2026-03-30 17:10:57.345] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:10:58.733] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50908
+[2026-03-30 17:11:00.342] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:11:01.742] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61970
+[2026-03-30 17:11:03.349] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:11:04.753] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61971
+[2026-03-30 17:11:06.348] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:11:09.341] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:47:33.521] [INFO] [PrimaryOrchestrator] Iniciando Orquestrador Principal...
+[2026-03-30 17:47:33.528] [INFO] [PrimaryOrchestrator] Orquestrador Principal rodando na porta 8080
+[2026-03-30 17:47:33.528] [INFO] [PrimaryOrchestrator] Servidor de clientes rodando na porta 8081
+[2026-03-30 17:47:36.749] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:47:39.532] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:47:42.545] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:47:45.540] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:47:48.538] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:47:51.539] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:47:54.536] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:47:57.535] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:48:00.545] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:48:03.540] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:48:06.540] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:49:47.169] [INFO] [PrimaryOrchestrator] Iniciando Orquestrador Principal...
+[2026-03-30 17:49:47.177] [INFO] [PrimaryOrchestrator] Servidor de clientes rodando na porta 8081
+[2026-03-30 17:49:47.177] [INFO] [PrimaryOrchestrator] Orquestrador Principal rodando na porta 8080
+[2026-03-30 17:49:50.381] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:49:53.192] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:49:56.187] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:49:58.412] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58626
+[2026-03-30 17:49:58.620] [INFO] [PrimaryOrchestrator] Worker registrado: worker1
+[2026-03-30 17:49:59.197] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:50:01.640] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:52792
+[2026-03-30 17:50:02.186] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:50:03.166] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:52793
+[2026-03-30 17:50:03.334] [INFO] [PrimaryOrchestrator] Worker registrado: worker2
+[2026-03-30 17:50:04.656] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:52794
+[2026-03-30 17:50:05.186] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:50:06.350] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:52795
+[2026-03-30 17:50:07.663] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:52796
+[2026-03-30 17:50:08.182] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:50:08.690] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:52797
+[2026-03-30 17:50:08.856] [INFO] [PrimaryOrchestrator] Worker registrado: worker3
+[2026-03-30 17:50:09.355] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:52798
+[2026-03-30 17:50:10.667] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:52799
+[2026-03-30 17:50:11.182] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:50:11.874] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:52800
+[2026-03-30 17:50:12.361] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:52801
+[2026-03-30 17:50:13.671] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50616
+[2026-03-30 17:50:14.189] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:50:14.387] [INFO] [PrimaryOrchestrator] Cliente conectado: /127.0.0.1:50617
+[2026-03-30 17:50:14.881] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50618
+[2026-03-30 17:50:15.364] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50619
+[2026-03-30 17:50:16.675] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50620
+[2026-03-30 17:50:17.191] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:50:17.895] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50621
+[2026-03-30 17:50:18.364] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50622
+[2026-03-30 17:50:19.678] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50623
+[2026-03-30 17:50:20.178] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:50:20.899] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50624
+[2026-03-30 17:50:21.368] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50625
+[2026-03-30 17:50:22.692] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50626
+[2026-03-30 17:50:23.179] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:50:23.900] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50627
+[2026-03-30 17:50:24.371] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50628
+[2026-03-30 17:50:25.701] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50630
+[2026-03-30 17:50:26.185] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:50:26.907] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50631
+[2026-03-30 17:50:27.379] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50632
+[2026-03-30 17:50:28.717] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50633
+[2026-03-30 17:50:29.186] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:50:29.788] [INFO] [PrimaryOrchestrator] Usuário aluno1 autenticado
+[2026-03-30 17:50:29.919] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50634
+[2026-03-30 17:50:30.390] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50635
+[2026-03-30 17:50:31.721] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50636
+[2026-03-30 17:50:32.191] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:50:32.929] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50637
+[2026-03-30 17:50:33.400] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50638
+[2026-03-30 17:50:34.731] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50639
+[2026-03-30 17:50:35.184] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:50:35.936] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50640
+[2026-03-30 17:50:36.406] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50641
+[2026-03-30 17:50:37.739] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50642
+[2026-03-30 17:50:38.191] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:50:38.948] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50643
+[2026-03-30 17:50:39.415] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50644
+[2026-03-30 17:50:40.750] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50645
+[2026-03-30 17:50:41.178] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:50:41.951] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50646
+[2026-03-30 17:50:42.421] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50647
+[2026-03-30 17:50:42.705] [INFO] [PrimaryOrchestrator] Tarefa submetida: a11911b3-3a10-4aae-bec2-4bd029f75798 por aluno1
+[2026-03-30 17:50:42.711] [INFO] [PrimaryOrchestrator] Tarefa a11911b3-3a10-4aae-bec2-4bd029f75798 distribuída para worker1
+[2026-03-30 17:50:43.756] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50649
+[2026-03-30 17:50:44.179] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:50:44.952] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50650
+[2026-03-30 17:50:45.422] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50651
+[2026-03-30 17:50:46.759] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50652
+[2026-03-30 17:50:47.183] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:50:47.955] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50653
+[2026-03-30 17:50:48.428] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50654
+[2026-03-30 17:50:49.182] [INFO] [PrimaryOrchestrator] Tarefa submetida: be91db52-60f3-4d0e-b1d4-15ddccde2631 por aluno1
+[2026-03-30 17:50:49.182] [INFO] [PrimaryOrchestrator] Tarefa be91db52-60f3-4d0e-b1d4-15ddccde2631 distribuída para worker3
+[2026-03-30 17:50:49.773] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50656
+[2026-03-30 17:50:50.181] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:50:50.961] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50657
+[2026-03-30 17:50:51.432] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50658
+[2026-03-30 17:50:52.777] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50659
+[2026-03-30 17:50:53.185] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:50:53.973] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50660
+[2026-03-30 17:50:54.251] [INFO] [PrimaryOrchestrator] Tarefa submetida: ad8e5c53-af68-4a57-b895-b789d8f2a09a por aluno1
+[2026-03-30 17:50:54.252] [INFO] [PrimaryOrchestrator] Tarefa ad8e5c53-af68-4a57-b895-b789d8f2a09a distribuída para worker2
+[2026-03-30 17:50:54.442] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50662
+[2026-03-30 17:50:55.784] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50663
+[2026-03-30 17:50:56.191] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:50:56.974] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50664
+[2026-03-30 17:50:57.444] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50665
+[2026-03-30 17:50:58.793] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:50666
+[2026-03-30 17:50:59.186] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:50:59.983] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:63595
+[2026-03-30 17:51:00.452] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:63596
+[2026-03-30 17:51:01.800] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:63597
+[2026-03-30 17:51:02.178] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:51:02.995] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:63598
+[2026-03-30 17:51:03.459] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:63599
+[2026-03-30 17:51:04.802] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:63600
+[2026-03-30 17:51:05.178] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:51:06.005] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:63601
+[2026-03-30 17:51:06.459] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:63602
+[2026-03-30 17:51:07.813] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:63603
+[2026-03-30 17:51:08.189] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:51:09.019] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:63604
+[2026-03-30 17:51:09.474] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:63605
+[2026-03-30 17:51:10.815] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:63606
+[2026-03-30 17:51:11.188] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:51:12.033] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:63607
+[2026-03-30 17:51:12.485] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:63608
+[2026-03-30 17:51:13.830] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:63609
+[2026-03-30 17:51:14.188] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:51:15.046] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:63610
+[2026-03-30 17:51:15.487] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:63611
+[2026-03-30 17:51:16.833] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:63612
+[2026-03-30 17:51:17.191] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:51:18.056] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:62121
+[2026-03-30 17:51:18.499] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:62122
+[2026-03-30 17:51:19.845] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:62123
+[2026-03-30 17:51:20.189] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:51:21.063] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:62124
+[2026-03-30 17:51:21.502] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:62125
+[2026-03-30 17:51:22.860] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:62126
+[2026-03-30 17:51:23.187] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:51:24.077] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58705
+[2026-03-30 17:51:24.515] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58706
+[2026-03-30 17:51:25.876] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61711
+[2026-03-30 17:51:26.189] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:51:27.082] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61712
+[2026-03-30 17:51:27.518] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61713
+[2026-03-30 17:51:28.879] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61714
+[2026-03-30 17:51:29.189] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:51:30.093] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61715
+[2026-03-30 17:51:30.531] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61716
+[2026-03-30 17:51:31.893] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61717
+[2026-03-30 17:51:32.191] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:51:33.097] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61718
+[2026-03-30 17:51:33.548] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61719
+[2026-03-30 17:51:34.906] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61720
+[2026-03-30 17:51:35.186] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:51:36.099] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61721
+[2026-03-30 17:51:36.559] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61722
+[2026-03-30 17:51:37.921] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61723
+[2026-03-30 17:51:38.186] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:51:39.109] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61027
+[2026-03-30 17:51:39.573] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61028
+[2026-03-30 17:51:40.923] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61029
+[2026-03-30 17:51:41.189] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:51:42.114] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61030
+[2026-03-30 17:51:42.586] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61031
+[2026-03-30 17:51:43.925] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61032
+[2026-03-30 17:51:44.177] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:51:45.127] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61033
+[2026-03-30 17:51:45.596] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61034
+[2026-03-30 17:51:46.928] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61035
+[2026-03-30 17:51:47.178] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:51:48.137] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61036
+[2026-03-30 17:51:48.608] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61037
+[2026-03-30 17:51:49.939] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61038
+[2026-03-30 17:51:50.191] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:51:51.148] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61039
+[2026-03-30 17:51:51.613] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61040
+[2026-03-30 17:51:52.943] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61041
+[2026-03-30 17:51:53.179] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:51:54.152] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58964
+[2026-03-30 17:51:54.624] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58965
+[2026-03-30 17:51:55.958] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58966
+[2026-03-30 17:51:56.193] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:51:57.161] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58967
+[2026-03-30 17:51:57.629] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58968
+[2026-03-30 17:51:58.964] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58969
+[2026-03-30 17:51:59.182] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:52:00.172] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58970
+[2026-03-30 17:52:00.640] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58971
+[2026-03-30 17:52:01.979] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58972
+[2026-03-30 17:52:02.182] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:52:03.184] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58973
+[2026-03-30 17:52:03.643] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58975
+[2026-03-30 17:52:04.994] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58976
+[2026-03-30 17:52:05.180] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:52:06.197] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58977
+[2026-03-30 17:52:06.650] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58978
+[2026-03-30 17:52:07.996] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58979
+[2026-03-30 17:52:08.186] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:52:09.204] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58980
+[2026-03-30 17:52:09.661] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58981
+[2026-03-30 17:52:11.010] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58982
+[2026-03-30 17:52:11.183] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:52:12.213] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58983
+[2026-03-30 17:52:12.664] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58984
+[2026-03-30 17:52:14.014] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58985
+[2026-03-30 17:52:14.184] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:52:15.217] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58986
+[2026-03-30 17:52:15.672] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58987
+[2026-03-30 17:52:17.021] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58988
+[2026-03-30 17:52:17.179] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:52:18.219] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:64470
+[2026-03-30 17:52:18.675] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:64471
+[2026-03-30 17:52:20.033] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:64472
+[2026-03-30 17:52:20.188] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:52:21.234] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:64473
+[2026-03-30 17:52:21.690] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:64474
+[2026-03-30 17:52:23.042] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:64475
+[2026-03-30 17:52:23.181] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:52:24.244] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:64476
+[2026-03-30 17:52:24.700] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:64477
+[2026-03-30 17:52:26.045] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:64479
+[2026-03-30 17:52:26.188] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:52:27.258] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:64480
+[2026-03-30 17:52:27.714] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:64481
+[2026-03-30 17:52:29.059] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:64482
+[2026-03-30 17:52:29.183] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:52:30.263] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:64483
+[2026-03-30 17:52:30.716] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:64484
+[2026-03-30 17:52:32.068] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:64485
+[2026-03-30 17:52:32.178] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:52:33.270] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:64486
+[2026-03-30 17:52:33.722] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:64487
+[2026-03-30 17:52:35.080] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:64488
+[2026-03-30 17:52:35.189] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:52:36.286] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:64489
+[2026-03-30 17:52:36.723] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61477
+[2026-03-30 17:52:38.087] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:65265
+[2026-03-30 17:52:38.181] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:52:39.290] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:65266
+[2026-03-30 17:52:39.727] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:65267
+[2026-03-30 17:52:41.091] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:65269
+[2026-03-30 17:52:41.185] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:52:42.295] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:65271
+[2026-03-30 17:52:42.734] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:65272
+[2026-03-30 17:52:44.100] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:65273
+[2026-03-30 17:52:44.179] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:52:45.304] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:65274
+[2026-03-30 17:52:45.742] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:65275
+[2026-03-30 17:52:47.105] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:65276
+[2026-03-30 17:52:47.183] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:52:48.312] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58167
+[2026-03-30 17:52:48.749] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58168
+[2026-03-30 17:52:50.115] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58169
+[2026-03-30 17:52:50.192] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:52:51.318] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58170
+[2026-03-30 17:52:51.752] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:58171
+[2026-03-30 17:52:53.124] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61773
+[2026-03-30 17:52:53.189] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:52:54.325] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61774
+[2026-03-30 17:52:54.765] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61775
+[2026-03-30 17:52:56.129] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61776
+[2026-03-30 17:52:56.191] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:52:57.332] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61777
+[2026-03-30 17:52:57.769] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61778
+[2026-03-30 17:52:59.130] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61779
+[2026-03-30 17:52:59.178] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:53:00.338] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61780
+[2026-03-30 17:53:00.781] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61781
+[2026-03-30 17:53:02.140] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61782
+[2026-03-30 17:53:02.187] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:53:03.340] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61783
+[2026-03-30 17:53:03.794] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61784
+[2026-03-30 17:53:05.151] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61785
+[2026-03-30 17:53:05.183] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:53:06.355] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61786
+[2026-03-30 17:53:06.809] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61787
+[2026-03-30 17:53:08.154] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61788
+[2026-03-30 17:53:08.185] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:53:09.362] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61789
+[2026-03-30 17:53:09.814] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61790
+[2026-03-30 17:53:11.156] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61791
+[2026-03-30 17:53:11.188] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:53:12.374] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61792
+[2026-03-30 17:53:12.825] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61793
+[2026-03-30 17:53:14.168] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61794
+[2026-03-30 17:53:14.183] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:53:15.384] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61795
+[2026-03-30 17:53:15.839] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61796
+[2026-03-30 17:53:17.180] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:53:17.180] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61797
+[2026-03-30 17:53:18.387] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61798
+[2026-03-30 17:53:18.855] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61799
+[2026-03-30 17:53:20.183] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:53:20.183] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61800
+[2026-03-30 17:53:21.387] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61801
+[2026-03-30 17:53:21.861] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61802
+[2026-03-30 17:53:23.190] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:53:23.190] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61803
+[2026-03-30 17:53:24.393] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61804
+[2026-03-30 17:53:24.866] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61805
+[2026-03-30 17:53:26.191] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:53:26.206] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61807
+[2026-03-30 17:53:27.408] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61808
+[2026-03-30 17:53:27.880] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61809
+[2026-03-30 17:53:29.181] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:53:29.214] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61810
+[2026-03-30 17:53:30.416] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61811
+[2026-03-30 17:53:30.887] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61812
+[2026-03-30 17:53:32.181] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:53:32.229] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61813
+[2026-03-30 17:53:33.424] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61814
+[2026-03-30 17:53:33.893] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:61815
+[2026-03-30 17:53:35.187] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:53:35.234] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:51283
+[2026-03-30 17:53:36.426] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:51284
+[2026-03-30 17:53:36.897] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:51285
+[2026-03-30 17:53:38.182] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:53:38.244] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:51286
+[2026-03-30 17:53:39.428] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:51287
+[2026-03-30 17:53:39.913] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:51288
+[2026-03-30 17:53:41.182] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:53:41.259] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:51289
+[2026-03-30 17:53:42.443] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:51290
+[2026-03-30 17:53:42.925] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:51291
+[2026-03-30 17:53:44.187] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:53:44.266] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:54399
+[2026-03-30 17:53:45.450] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:54400
+[2026-03-30 17:53:45.938] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:54401
+[2026-03-30 17:53:47.183] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:53:47.276] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:54402
+[2026-03-30 17:53:48.463] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:54403
+[2026-03-30 17:53:48.948] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:54404
+[2026-03-30 17:53:50.184] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:53:50.278] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:54405
+[2026-03-30 17:53:51.469] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:60763
+[2026-03-30 17:53:51.954] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:60764
+[2026-03-30 17:53:53.178] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:53:53.286] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:60765
+[2026-03-30 17:53:54.470] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:60766
+[2026-03-30 17:53:54.961] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:60767
+[2026-03-30 17:53:56.187] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:53:56.297] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:60768
+[2026-03-30 17:53:57.484] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:60769
+[2026-03-30 17:53:57.971] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:60770
+[2026-03-30 17:53:59.191] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:53:59.302] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:60771
+[2026-03-30 17:54:00.487] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:60772
+[2026-03-30 17:54:00.975] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:60773
+[2026-03-30 17:54:02.181] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:54:02.304] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:60774
+[2026-03-30 17:54:03.494] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:60775
+[2026-03-30 17:54:03.982] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:60776
+[2026-03-30 17:54:05.189] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:54:06.505] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:60777
+[2026-03-30 17:54:06.990] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:60778
+[2026-03-30 17:54:08.193] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:54:09.522] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:60779
+[2026-03-30 17:54:10.004] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:60780
+[2026-03-30 17:54:11.188] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:54:12.523] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:60781
+[2026-03-30 17:54:13.006] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:60782
+[2026-03-30 17:54:14.192] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:54:15.533] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:55217
+[2026-03-30 17:54:16.014] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53254
+[2026-03-30 17:54:17.191] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:54:17.195] [WARN] [PrimaryOrchestrator] Worker worker1 falhou! Último heartbeat: 14885ms atrás
+[2026-03-30 17:54:17.195] [INFO] [PrimaryOrchestrator] Tarefa a11911b3-3a10-4aae-bec2-4bd029f75798 distribuída para worker3
+[2026-03-30 17:54:17.195] [INFO] [PrimaryOrchestrator] Tarefa a11911b3-3a10-4aae-bec2-4bd029f75798 reatribuída do worker worker1
+[2026-03-30 17:54:17.197] [INFO] [PrimaryOrchestrator] Workers falhos: worker1
+[2026-03-30 17:54:18.545] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53256
+[2026-03-30 17:54:19.016] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53257
+[2026-03-30 17:54:20.189] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:54:21.557] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53258
+[2026-03-30 17:54:22.025] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53259
+[2026-03-30 17:54:23.183] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:54:24.567] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53260
+[2026-03-30 17:54:25.035] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53261
+[2026-03-30 17:54:26.190] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:54:27.569] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53263
+[2026-03-30 17:54:28.050] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53264
+[2026-03-30 17:54:29.192] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:54:30.584] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53265
+[2026-03-30 17:54:31.065] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53266
+[2026-03-30 17:54:32.190] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:54:33.593] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53267
+[2026-03-30 17:54:34.079] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53268
+[2026-03-30 17:54:35.191] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:54:36.610] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53269
+[2026-03-30 17:54:37.081] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53270
+[2026-03-30 17:54:38.191] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:54:39.616] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53271
+[2026-03-30 17:54:40.085] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53272
+[2026-03-30 17:54:41.179] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:54:42.628] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53273
+[2026-03-30 17:54:43.097] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53274
+[2026-03-30 17:54:44.179] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:54:45.629] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53275
+[2026-03-30 17:54:46.101] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53276
+[2026-03-30 17:54:47.186] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:54:48.646] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53277
+[2026-03-30 17:54:49.101] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53278
+[2026-03-30 17:54:50.183] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:54:51.657] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53280
+[2026-03-30 17:54:52.112] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53281
+[2026-03-30 17:54:53.179] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:54:54.658] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53282
+[2026-03-30 17:54:55.125] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53283
+[2026-03-30 17:54:56.187] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:54:57.669] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53285
+[2026-03-30 17:54:58.137] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53286
+[2026-03-30 17:54:59.190] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:55:00.680] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53287
+[2026-03-30 17:55:01.151] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:53288
+[2026-03-30 17:55:02.186] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:55:03.686] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:52324
+[2026-03-30 17:55:04.159] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:52325
+[2026-03-30 17:55:05.178] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:55:06.694] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:52326
+[2026-03-30 17:55:07.164] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:52327
+[2026-03-30 17:55:08.185] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:55:09.702] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:52328
+[2026-03-30 17:55:10.172] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:52329
+[2026-03-30 17:55:11.190] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:55:12.709] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:52330
+[2026-03-30 17:55:13.178] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:52331
+[2026-03-30 17:55:14.188] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:55:15.713] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:52332
+[2026-03-30 17:55:16.185] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:52333
+[2026-03-30 17:55:17.186] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:55:18.726] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:52334
+[2026-03-30 17:55:19.193] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:52335
+[2026-03-30 17:55:20.179] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:55:21.735] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:52336
+[2026-03-30 17:55:22.205] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:52337
+[2026-03-30 17:55:23.178] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:55:24.745] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:52338
+[2026-03-30 17:55:25.216] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:52339
+[2026-03-30 17:55:26.191] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:55:27.749] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:54496
+[2026-03-30 17:55:28.221] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:54497
+[2026-03-30 17:55:29.177] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:55:30.763] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:54498
+[2026-03-30 17:55:31.233] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:54499
+[2026-03-30 17:55:32.183] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup
+[2026-03-30 17:55:33.773] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:54500
+[2026-03-30 17:55:34.243] [INFO] [PrimaryOrchestrator] Worker conectado: /127.0.0.1:54501
+[2026-03-30 17:55:35.178] [INFO] [PrimaryOrchestrator] Estado sincronizado com backup

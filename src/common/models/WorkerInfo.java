@@ -26,58 +26,30 @@ public class WorkerInfo implements Serializable {
         this.port = port;
     }
     
-
-    public String getId(){ 
-        return id;
-    }
-    public void setId(String id){
-        this.id = id; 
-    }
+    // Getters e Setters
+    public String getId() { return id; }
+    public void setId(String id) { this.id = id; }
     
-    public String getHost(){ 
-        return host;
-    }
-    public void setHost(String host){ 
-        this.host = host; 
-    }
+    public String getHost() { return host; }
+    public void setHost(String host) { this.host = host; }
     
-    public int getPort(){ 
-        return port; 
-    }
-    public void setPort(int port){ 
-        this.port = port; 
-    }
+    public int getPort() { return port; }
+    public void setPort(int port) { this.port = port; }
     
-    public boolean isActive(){ 
-        return active; 
-    }
-    public void setActive(boolean active){ 
-        this.active = active; 
-    }
+    public boolean isActive() { return active; }
+    public void setActive(boolean active) { this.active = active; }
     
-    public long getLastHeartbeat(){ 
-        return lastHeartbeat; 
-    }
-    public void setLastHeartbeat(long lastHeartbeat){ 
-        this.lastHeartbeat = lastHeartbeat; 
-    }
+    public long getLastHeartbeat() { return lastHeartbeat; }
+    public void setLastHeartbeat(long lastHeartbeat) { this.lastHeartbeat = lastHeartbeat; }
     
-    public int getCurrentLoad(){ 
-        return currentLoad; 
-    }
-    public void incrementLoad(){ 
-        currentLoad++;
-    }
-    public void decrementLoad(){ 
-        currentLoad--; 
-    }
+    public int getCurrentLoad() { return currentLoad; }
+    public void setCurrentLoad(int currentLoad) { this.currentLoad = currentLoad; }  // ← ADICIONADO
     
-    public String getCurrentTaskId(){ 
-        return currentTaskId; 
-    }
-    public void setCurrentTaskId(String currentTaskId){ 
-        this.currentTaskId = currentTaskId; 
-    }
+    public void incrementLoad() { currentLoad++; }
+    public void decrementLoad() { currentLoad--; }
+    
+    public String getCurrentTaskId() { return currentTaskId; }
+    public void setCurrentTaskId(String currentTaskId) { this.currentTaskId = currentTaskId; }
     
     @Override
     public String toString() {

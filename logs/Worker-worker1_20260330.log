@@ -1,0 +1,5 @@
+[2026-03-30 17:49:58.390] [INFO] [Worker-worker1] Iniciando Worker Node...
+[2026-03-30 17:49:58.621] [INFO] [Worker-worker1] Registrado no orquestrador: REGISTERED
+[2026-03-30 17:49:58.626] [INFO] [Worker-worker1] Worker rodando na porta 9001
+[2026-03-30 17:50:42.786] [INFO] [Worker-worker1] Executando tarefa: a11911b3-3a10-4aae-bec2-4bd029f75798 - tarefa1
+[2026-03-30 17:50:42.792] [INFO] [Worker-worker1] Tarefa a11911b3-3a10-4aae-bec2-4bd029f75798 concluída
