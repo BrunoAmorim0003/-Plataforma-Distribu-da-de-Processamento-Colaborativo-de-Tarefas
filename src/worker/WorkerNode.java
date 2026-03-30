@@ -91,6 +91,10 @@ public class WorkerNode {
         currentTaskId = task.getId();
         Logger.info("Worker-" + id, "Executando tarefa: " + task.getId() + " - " + task.getDescription());
         
+        task.setStatus(TaskStatus.PROCESSING);
+        String statusUpdate = MessageProtocol.build("STATUS_UPDATE", JsonUtil.toString(task));
+        out.println(statusUpdate);
+        
         TaskResult result = new TaskResult();
         result.setTaskId(task.getId());
         result.setLamportTimestamp(System.currentTimeMillis());

@@ -43,6 +43,16 @@ public class WorkerHandler implements Runnable {
                         TaskResult result = JsonUtil.fromJson(data, TaskResult.class);
                         // Processamento assíncrono
                         break;
+                    case "STATUS_UPDATE":
+                        Task task = JsonUtil.fromJson(data, Task.class);
+                        if (task != null && task.getStatus() == TaskStatus.PROCESSING) {
+                             Task existingTask = orchestrator.getTasks().get(task.getId());
+                             if (existingTask != null) {
+                             existingTask.setStatus(TaskStatus.PROCESSING);
+                            Logger.info("WorkerHandler", "Tarefa " + task.getId() + " agora em PROCESSING");
+            }
+        }
+        break;
                     default:
                         Logger.warning("WorkerHandler", "Mensagem desconhecida: " + type);
                 }

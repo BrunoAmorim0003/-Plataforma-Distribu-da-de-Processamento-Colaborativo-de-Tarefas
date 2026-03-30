@@ -2,6 +2,8 @@ package common.util;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
+import common.models.Task;
+
 public class JsonUtil {
     private static final ObjectMapper objectMapper = new ObjectMapper();
     
@@ -19,5 +21,9 @@ public class JsonUtil {
         } catch (Exception e) {
             return null;
         }
+    }
+
+     public static String toString(Object obj) {
+        return toJson(obj);
     }
 }

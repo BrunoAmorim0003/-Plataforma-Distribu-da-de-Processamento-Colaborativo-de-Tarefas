@@ -118,7 +118,7 @@ public class PrimaryOrchestrator {
     private void reassignTasksFromFailedWorker(WorkerInfo failedWorker) {
         for (Task task : tasks.values()) {
             if (failedWorker.getId().equals(task.getAssignedWorker()) && 
-                task.getStatus() == TaskStatus.PROCESSING) {
+                task.getStatus() == TaskStatus.ASSIGNED || task.getStatus() == TaskStatus.PROCESSING) {
                 task.setStatus(TaskStatus.REASSIGNED);
                 distributeTask(task);
                 Logger.info("PrimaryOrchestrator", "Tarefa " + task.getId() + " reatribuída do worker " + failedWorker.getId());
