@@ -47,10 +47,10 @@ public class ClientApp {
                     if (parts[0].equals(MessageProtocol.MSG_AUTH_RESPONSE) && !parts[1].equals("FAILED")) {
                         authToken = parts[1];
                         username = user;
-                        System.out.println("✅ Login realizado com sucesso!");
+                        System.out.println("[OK] Login realizado com sucesso!");
                         showMenu();
                     } else {
-                        System.out.println("❌ Falha no login. Tente novamente.");
+                        System.out.println("[X] Falha no login. Tente novamente.");
                     }
                 } else {
                     System.out.print("\n> ");
@@ -83,14 +83,14 @@ public class ClientApp {
                 execTime = Long.parseLong(parts[2]);
                 submitTask(description, execTime);
             } catch (NumberFormatException e) {
-                System.out.println("❌ Tempo deve ser um número em milissegundos");
+                System.out.println("[X] Tempo deve ser um número em milissegundos");
             }
         } else if (parts[0].equalsIgnoreCase("status") && parts.length >= 2) {
             getStatus(parts[1]);
         } else if (parts[0].equalsIgnoreCase("logout")) {
             logout();
         } else {
-            System.out.println("❌ Comando inválido. Use: submit <desc> <tempo> ou status <id>");
+            System.out.println("[X] Comando inválido. Use: submit <desc> <tempo> ou status <id>");
         }
     }
     
@@ -103,9 +103,10 @@ public class ClientApp {
             String response = in.readLine();
             if (response.startsWith("SUCESSO")) {
                 String taskId = response.split("\\|")[1];
-                System.out.println("✅ Tarefa submetida com sucesso! ID: " + taskId);
+                System.out.println("[OK] Tarefa submetida com sucesso! ID: " + taskId);
+                System.out.println("Use 'status " + taskId + "' para acompanhar.");
             } else {
-                System.out.println("❌ Erro ao submeter tarefa: " + response);
+                System.out.println("[X] Erro ao submeter tarefa: " + response);
             }
         } catch (IOException e) {
             System.err.println("Erro: " + e.getMessage());
@@ -120,9 +121,9 @@ public class ClientApp {
             String response = in.readLine();
             String[] parts = MessageProtocol.parse(response);
             if (parts[0].equals(MessageProtocol.MSG_STATUS_RESPONSE)) {
-                System.out.println("📊 Status: " + parts[1]);
+                System.out.println("Status: " + parts[1]);
             } else {
-                System.out.println("❌ " + parts[1]);
+                System.out.println("[X]" + parts[1]);
             }
         } catch (IOException e) {
             System.err.println("Erro: " + e.getMessage());
@@ -132,7 +133,7 @@ public class ClientApp {
     private void logout() {
         authToken = null;
         username = null;
-        System.out.println("✅ Logout realizado com sucesso!");
+        System.out.println("[OK] Logout realizado com sucesso!");
         showMenu();
     }
     
