@@ -24,6 +24,7 @@ Desenvolver uma plataforma distribuída que simula um sistema real de processame
 | **Cliente** | Interface para submeter e consultar tarefas | - |
 
 ## 🏛️ Arquitetura
+```bash
 ┌─────────────┐     ┌─────────────────────────────────────┐     ┌─────────────┐
 │   Cliente   │────▶│                                   │◀────│   Cliente   │
 └─────────────┘     │   Orquestrador Principal (Porta 8081) │   └─────────────┘
@@ -45,6 +46,8 @@ Desenvolver uma plataforma distribuída que simula um sistema real de processame
             │ (Porta    │   │ (Porta    │   │ (Porta    │
             │  9001)    │   │  9002)    │   │  9003)    │
             └───────────┘   └───────────┘   └───────────┘
+```
+
 
 
 ## 🔧 Requisitos
@@ -54,7 +57,7 @@ Desenvolver uma plataforma distribuída que simula um sistema real de processame
 - **Jackson** (bibliotecas na pasta `lib/`)
 
 ### 📁 Estrutura do Projeto
-
+```bash
 plataforma-distribuida/
 ├── src/
 │ ├── common/
@@ -76,7 +79,7 @@ plataforma-distribuida/
 ├── logs/ # Logs gerados pelo sistema
 ├── bin/ # Arquivos compilados
 └── README.md
-
+```
 
 ## 🚀 Instalação e Execução
 1. Clone o repositório
@@ -270,6 +273,7 @@ logs/ClientApp_20260330.log
 ```
 
 # Eventos Registrados
+```bash
 Evento	                    Descrição
 TASK_SUBMITTED	            Cliente submeteu nova tarefa
 TASK_DISTRIBUTED	          Tarefa atribuída a um worker
@@ -281,18 +285,20 @@ WORKER_REGISTERED	          Novo worker registrado
 AUTH_SUCCESS	              Login bem-sucedido
 AUTH_FAILURE	              Tentativa de login inválida
 FAILOVER	                  Backup assumiu como primário
+```
 
 ## Resolução de Problemas
+```bash
 Erro: package com.fasterxml.jackson.databind does not exist
-
+```
 Solução: Baixe os JARs do Jackson e coloque na pasta lib/, ou use a versão do JsonUtil sem dependências externas.
-
+```bash
 Erro: Address already in use
-
+```
 Solução: Algum componente já está rodando. Feche todos os terminais e reinicie.
-
+```bash
 Erro: Connection refused
-
+```
 Solução: Verifique se o orquestrador está rodando antes de iniciar workers e clientes.
 
 ## Autores
