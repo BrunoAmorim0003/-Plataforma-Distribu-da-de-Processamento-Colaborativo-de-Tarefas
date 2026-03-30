@@ -4,15 +4,16 @@ import common.models.WorkerInfo;
 
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.atomic.AtomicInteger;
 
 public class LoadBalancer {
     private Map<String, WorkerInfo> workers;
-    private int roundRobinIndex;
+    private AtomicInteger roundRobinCounter;
     private String strategy;
     
     public LoadBalancer(Map<String, WorkerInfo> workers) {
         this.workers = workers;
-        this.roundRobinIndex = 0;
+        this.roundRobinCounter = new AtomicInteger(0);
         this.strategy = "LEAST_LOAD";
     }
     
@@ -29,13 +30,34 @@ public class LoadBalancer {
         }
         
         if (strategy.equals("LEAST_LOAD")) {
-            return activeWorkers.stream()
-                    .min(Comparator.comparingInt(WorkerInfo::getCurrentLoad))
-                    .orElse(null);
+            // Encontra a menor carga atual
+            int minLoad = activeWorkers.stream()
+                    .mapToInt(WorkerInfo::getCurrentLoad)
+                    .min()
+                    .orElse(0);
+            
+            // Filtrar apenas os workers com a menor carga
+            List<WorkerInfo> leastLoadedWorkers = new ArrayList<>();
+            for (WorkerInfo w : activeWorkers) {
+                if (w.getCurrentLoad() == minLoad) {
+                    leastLoadedWorkers.add(w);
+                }
+            }
+            
+            // usar Round Robin entre os empatados
+            int index = roundRobinCounter.getAndIncrement() % leastLoadedWorkers.size();
+            WorkerInfo selected = leastLoadedWorkers.get(index);
+            
+            System.out.println("[LoadBalancer] Workers com carga " + minLoad + ": " + leastLoadedWorkers.size() + 
+                               " | Escolhido: " + selected.getId());
+            
+            return selected;
+            
         } else {
-            int index = roundRobinIndex % activeWorkers.size();
-            roundRobinIndex++;
-            return activeWorkers.get(index);
+            //Round Robin
+            List<WorkerInfo> allActive = new ArrayList<>(activeWorkers);
+            int index = roundRobinCounter.getAndIncrement() % allActive.size();
+            return allActive.get(index);
         }
     }
     
