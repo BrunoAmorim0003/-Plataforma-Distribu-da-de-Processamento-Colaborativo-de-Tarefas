@@ -3,6 +3,7 @@ package orchestrator;
 import common.models.WorkerInfo;
 
 import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
 
 public class LoadBalancer {
     private Map<String, WorkerInfo> workers;
